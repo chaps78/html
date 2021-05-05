@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Terminal</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 May 2021 23:31:43 +0200</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DNS</title>
+      <link>https://example.com/tech/dns/</link>
+      <pubDate>Mon, 03 May 2021 00:52:28 +0200</pubDate>
+      
+      <guid>https://example.com/tech/dns/</guid>
+      <description>Le Domain Name System, généralement abrégé DNS, qu&amp;rsquo;on peut traduire en « système de noms de domaine », est le service informatique distribué utilisé pour traduire les noms de domaine Internet en adresse IP ou autres enregistrements. En fournissant dès les premières années d&amp;rsquo;Internet, autour de 1985, un service distribué de résolution de noms, le DNS a été un composant essentiel du développement du réseau.
+À la demande de la DARPA (Defense Advanced Research Projects Agency, « Agence pour les projets de recherche avancée de défense ») américaine, Jon Postel et Paul Mockapetris ont conçu le « Domain Name System » en 1983 et en ont rédigé la première implémentation.</description>
+      <content>&lt;p&gt;Le Domain Name System, généralement abrégé DNS, qu&amp;rsquo;on peut traduire en « système de noms de domaine », est le service informatique distribué utilisé pour traduire les noms de domaine Internet en adresse IP ou autres enregistrements. En fournissant dès les premières années d&amp;rsquo;Internet, autour de 1985, un service distribué de résolution de noms, le DNS a été un composant essentiel du développement du réseau.&lt;/p&gt;
+&lt;p&gt;À la demande de la DARPA (Defense Advanced Research Projects Agency, « Agence pour les projets de recherche avancée de défense ») américaine, Jon Postel et Paul Mockapetris ont conçu le « Domain Name System » en 1983 et en ont rédigé la première implémentation.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Main_page</title>
+      <link>https://example.com/main_page/</link>
+      <pubDate>Sun, 02 May 2021 23:31:43 +0200</pubDate>
+      
+      <guid>https://example.com/main_page/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Blop</title>
+      <link>https://example.com/blop/blop/</link>
+      <pubDate>Sun, 02 May 2021 21:23:44 +0200</pubDate>
+      
+      <guid>https://example.com/blop/blop/</guid>
+      <description>YESSSSS</description>
+      <content>&lt;p&gt;YESSSSS&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Ftp OUIII</title>
+      <link>https://example.com/tech/ftp/</link>
+      <pubDate>Sun, 02 May 2021 21:07:15 +0200</pubDate>
+      
+      <guid>https://example.com/tech/ftp/</guid>
+      <description>File Transfer Protocol (protocole de transfert de fichier), ou FTP, est un protocole de communication destiné au partage de fichiers sur un réseau TCP/IP. Il permet, depuis un ordinateur, de copier des fichiers vers un autre ordinateur du réseau, ou encore de supprimer ou de modifier des fichiers sur cet ordinateur. Ce mécanisme de copie est souvent utilisé pour alimenter un site web hébergé chez un tiers.
+La variante de FTP protégée par les protocoles SSL ou TLS (SSL étant le prédécesseur de TLS) s&amp;rsquo;appelle FTPS.</description>
+      <content>&lt;p&gt;File Transfer Protocol (protocole de transfert de fichier), ou FTP, est un protocole de communication destiné au partage de fichiers sur un réseau TCP/IP. Il permet, depuis un ordinateur, de copier des fichiers vers un autre ordinateur du réseau, ou encore de supprimer ou de modifier des fichiers sur cet ordinateur. Ce mécanisme de copie est souvent utilisé pour alimenter un site web hébergé chez un tiers.&lt;/p&gt;
+&lt;p&gt;La variante de FTP protégée par les protocoles SSL ou TLS (SSL étant le prédécesseur de TLS) s&amp;rsquo;appelle FTPS.&lt;/p&gt;
+&lt;p&gt;FTP obéit à un modèle client-serveur, c&amp;rsquo;est-à-dire qu&amp;rsquo;une des deux parties, le client, envoie des requêtes auxquelles réagit l&amp;rsquo;autre, appelé serveur. En pratique, le serveur est un ordinateur sur lequel fonctionne un logiciel lui-même appelé serveur FTP, qui rend publique une arborescence de fichiers similaire à un système de fichiers UNIX. Pour accéder à un serveur FTP, on utilise un logiciel client FTP (possédant une interface graphique ou en ligne de commande).&lt;/p&gt;
+&lt;p&gt;FTP, qui appartient à la couche application du modèle OSI et du modèle ARPA, utilise une connexion TCP.&lt;/p&gt;
+&lt;p&gt;Par convention, deux ports sont attribués (well known ports) pour les connexions FTP : le port 21 pour les commandes et le port 20 pour les données. Pour le FTPS dit implicite, les ports conventionnels sont le 990 pour les commandes et le 989 pour les données.&lt;/p&gt;
+&lt;p&gt;Ce protocole peut fonctionner avec IPv4 et IPv6.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
